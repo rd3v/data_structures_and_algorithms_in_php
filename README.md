@@ -7,7 +7,7 @@ It's Contain:\
 3.Linked List\
 4.Double Linked List\
 5.Stacks\
-6.Queues\
+6.Queues
 
 Full and update course just click 
 [This Link](https://www.udemy.com/course/data-structures-and-algorithm-in-php-part-one/)
